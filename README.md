@@ -1,1 +1,2 @@
-# fs2clipboard
+# FileToClipboard
+TODO
